@@ -2,6 +2,9 @@
     Created on : 08/05/2016, 11:27:06
     Author     : robertomelo
 */
+body{
+    background-image: url(../img/fundouniverse.jpg);
+}
  .divTab{
                 margin: 0;
                padding: 0;
