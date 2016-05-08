@@ -1,0 +1,27 @@
+/* 
+    Created on : 08/05/2016, 11:27:06
+    Author     : robertomelo
+*/
+ .divTab{
+                margin: 0;
+               padding: 0;
+            }
+            .tableCell{
+               border:1px #DCDCDC solid;
+               font-family: Arial;
+               font-size: 16px;
+               background-color: #99ccff;
+               
+            }
+            td{
+                width: 150px;
+                height: 150px;
+                background: #fff;
+                text-align: center;
+                font-size: 80px;
+            }
+            h1{
+                text-align: center;
+                color: buttonface;
+            }
+
